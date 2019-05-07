@@ -43,8 +43,8 @@ To create a general-purpose v2 storage account in the Azure portal, follow these
    |Access tier     |Hot         |
 
 1. Select **Review + Create** to review your storage account settings and create the account.
-1. Select **Create**.
-1. Open the Blob services pages, and click on **Blobs**.
+1. Select **Create**. Creation status is reported in the top menu bell icon.
+1. Once your service is created, select the resource, and click on **Blobs**.
 1. Click on the **+** icon to create a container.
 1. Click on the container you created to open it.
 1. In the container you created, click **Upload** to upload the sample files located here: C:\Users\Admin\Desktop\Azure Search sample data
