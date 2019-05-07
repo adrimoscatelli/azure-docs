@@ -12,9 +12,8 @@ In this quickstart, you take the following actions:
 * Run the notebook.
 * View the logged error values in your workspace.  This example shows how the workspace can help you keep track of information generated in a script. 
 
-
-## Create a Machine Learning Service Workspace Resource in Azure
-Click on this link to the [Azure Portal](https://ms.portal.azure.com/#create/Microsoft.MachineLearningServices) to create a Machine Learning Workspace. Enter Workspace name, select resource group, and set Location to West US 2, then click Create. Wait for deployment to complete, clicking on the Bell icon at the top of the page to launch deployed workspace.
+## Use an existing Machine Learning Service Workspace Resource in Azure
+In this quickstart, use a Machine Learning Service Workspace resource created for you, found in the [Azure Portal](https://ms.portal.azure.com/). 
 
 ## Create a cloud-based notebook server
 
