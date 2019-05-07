@@ -9,10 +9,8 @@ In this quickstart you'll explore and prepare data:
 - Run the experiment
 - Visualize the resulting data
 
-## Create a Machine Learning Service Workspace Resource in Azure
-
-Click on this link to the [Azure Portal](https://ms.portal.azure.com/#create/Microsoft.MachineLearningServices) to create a Machine Learning Workspace. Enter Workspace name, select resource group, and set Location to West US 2, then click Create. Wait for deployment to complete, clicking on the Bell icon at the top of the page to launch deployed workspace.
-
+## Use an existing Machine Learning Service Workspace Resource in Azure
+In this quickstart, use a Machine Learning Service Workspace resource created for you, found in the [Azure Portal](https://ms.portal.azure.com/). 
 
 ## <a name="start"></a> Open the visual interface webpage
 
