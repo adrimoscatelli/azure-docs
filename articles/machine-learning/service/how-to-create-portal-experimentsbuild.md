@@ -5,7 +5,7 @@ In this article, you learn how to create, run, and explore automated machine lea
 If you prefer a more code-based experience, you can also configure your automated machine learning experiments in Python with the Azure Machine Learning SDK.
 
 ## Use an existing Machine Learning Service Workspace Resource in Azure
-In this quickstart, use a Machine Learning Service Workspace resource created for you, found in the [Azure Portal](https://ms.portal.azure.com/#create/Microsoft.MachineLearningServices). 
+In this quickstart, use a Machine Learning Service Workspace resource created for you, found in the [Azure Portal](https://ms.portal.azure.com/). 
 
 ## Get started
 
