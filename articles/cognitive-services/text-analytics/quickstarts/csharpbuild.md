@@ -26,7 +26,7 @@ On the [Azure Portal](https://ms.portal.azure.com/#create/Microsoft.CognitiveSer
 ## Call the Text Analytics API using the SDK
 
 1. Replace Program.cs with the code provided below. This program demonstrates the capabilities of the Text Analytics API in three sections (language extraction, key-phrase extraction, and sentiment analysis).
-1. Replace the `Ocp-Apim-Subscription-Key` header value with one of your two keys from the **Keys** page for your Text Analytics resource.
+1. Change the value of the `SubscriptionKey` from `""` to one of your two keys from the **Keys** page for your Text Analytics resource.
 1. Replace the region in `Endpoint`. You can find your endpoint in the overview section of your Text Analytics resource in the [Azure portal](<https://ms.portal.azure.com>). Include only this portion of your endpoint: "https://[region].api.cognitive.microsoft.com".
 1. Run the program.
 
