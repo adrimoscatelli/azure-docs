@@ -16,7 +16,7 @@ To create the sample in Visual Studio, do the following steps:
     1. Click the **Browse** tab, and in the **Search** box type "Newtonsoft.Json".
     1. Select **Newtonsoft.Json** when it displays, then click the checkbox next to your project name, and **Install**.
 1. Replace the code in `Program.cs` with the following code, and then make the following changes in code where needed:
-    1. Replace the value of `subscriptionKey` with your subscription key.
+    1. Replace the value of `subscriptionKey` with one of your resource key from the **Keys** page.
     1. Replace the value of the region of `uriBase` variable from the region from the **Overview** page of the Azure resource. Do not replace the entire variable value with the entire URI from the **Overview** page. 
 1. Run the program.
 1. At the prompt, enter the path to a local image.
