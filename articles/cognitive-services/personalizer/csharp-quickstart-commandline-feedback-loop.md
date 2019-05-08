@@ -42,6 +42,10 @@ Get the latest code as a Visual Studio solution from [GitHub] (add link).
 1. Replace `serviceEndpoint` with your service endpoint. An example is `https://westus2.api.cognitive.microsoft.com/`.
 1. Run the program.
 
+## Change the model update frequency 
+
+The default model update frequency is 5 minutes. In the Azure portal, in the **Personalizer** resource, on the **Settings** page, change the rate to 1 minute for this quickstart. This frequency allows you to see the personalizer service react to the Reward API call that sends feedback to Personalizer about the user's choice. 
+
 ## Add code to rank the actions you want to show to your users
 
 The following C# code is a complete listing to pass user information, _features, and information about your content, _actions_, to Personalizer using the SDK. Personalizer returns the top ranked action to show your user.  
