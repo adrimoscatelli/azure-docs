@@ -38,8 +38,8 @@ Get the latest code as a Visual Studio solution from [GitHub] (add link).
 ## Add the code and put in your Personalizer and Azure keys
 
 1. Replace Program.cs with the following code. 
-1. Replace `serviceKey` value with your valid Personalizer subscription key.
-1. Replace `serviceEndpoint` with your service endpoint. An example is `https://westus2.api.cognitive.microsoft.com/`.
+1. Replace `serviceKey` value with one of your Personalizer keys from the **Keys** page.
+1. Replace `serviceEndpoint` with your service endpoint from the **Overview** page. An example is `https://westus2.api.cognitive.microsoft.com/`.
 1. Run the program.
 
 ## Change the model update frequency 
