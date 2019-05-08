@@ -90,12 +90,7 @@ An experiment runs on a compute target, a compute resource that is attached to y
 
      ![Run experiment](https://github.com/adrimoscatelli/azure-docs/blob/master/includes/media/aml-ui-create-training-compute/run-experiment.png)
 
-1. When the **Setup Compute Targets** dialog appears, if your workspace already has a compute resource, you can select it now.  Otherwise, select **Create new**.
-
-    > [!NOTE]
-    > The visual interface can only run experiments on Machine Learning Compute targets. Other compute targets will not be shown.
-
-1. Provide a name for the compute resource.
+1. When the **Setup Compute Targets** dialog appears, if your workspace already has a compute resource, you can select it now.  
 
 1. Select **Run**.
 
